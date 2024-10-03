@@ -1,5 +1,7 @@
 defmodule PrivateFun do
   def double(a) do
+    # This is a comment
+    # so is this
     sum(a, a)
   end
 
