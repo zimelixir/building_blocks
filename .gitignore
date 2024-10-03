@@ -24,3 +24,4 @@ building_blocks-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+Elixir.Circle.beam
